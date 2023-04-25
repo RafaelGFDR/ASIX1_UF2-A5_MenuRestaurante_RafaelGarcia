@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+img{
+    height: 70vh;
+    object-fit: cover;
+    justify-content: center;
+}
+
+#logo{
+    margin: 0%;
+    width: 50px;
+    height: 50px;
+}
+
+
+.fondo {
+    background-image: url('../img/fondo.jpg');
+	background-size: cover;
+    background-position: center;
+
+}
+table th {
+    font-size: 2rem;
+    color: white;
+}
+table td {
+    font-size: 1rem;
+    color: white;
+}
+@media only screen and (max-width:600px) {
+    .hidden{
+        display:none
+    }
+    
+}

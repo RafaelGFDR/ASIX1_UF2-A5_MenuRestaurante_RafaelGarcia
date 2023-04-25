@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+    <menu plato="Entrantes frios">
+      <title>Jamón al Corte Gran Reserva</title>
+      <description>8.00€ - 10.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Surtido Ibérico</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Queso Puro de oveja</title>
+      <description>7,50€ - 9.00€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Salmorejo con virutas de jamón</title>
+      <description>7.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Ensaladilla de gambas</title>
+      <description>6.00€ - 8.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Papas ali-oli</title>
+      <description>4.50€ - 6.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Boquerones en vinagre</title>
+      <description>6.00€ - 8.00€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Ensalada "El Laurel"</title>
+      <description>8.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Ensalada "César</title>
+      <description>8.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes frios">
+      <title>Nachos con queso fundido</title>
+      <description>6.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Huevos rotos con jamón ibérico</title>
+      <description>9.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Venao en salsa con patatas</title>
+      <description>7.00€ - 9.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Carrillada en salsa con patatas</title>
+      <description>7.00€ - 10.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Berenjenas fritas con miel de caña</title>
+      <description>5.50€ - 7.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Patatas bravas</title>
+      <description>9.00€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Flamenquín de lomo</title>
+      <description>9.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Cochifrito</title>
+      <description>7.00€ - 10.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Croquetas caseras de jamón ibérico</title>
+      <description>7.00€ - 9.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Pincho de pollo</title>
+      <description>1.70€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Calamares fritos</title>
+      <description>6.00€ - 8.50€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Gambones al ajillo</title>
+      <description>10.00€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Entrantes calientes">
+      <title>Rabo de toro al Laurel</title>
+      <description>13.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Bocadillos">
+      <title>Jamón Serrano</title>
+      <description>4.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Bocadillos">
+      <title>Tortilla de patatas</title>
+      <description>3.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Bocadillos">
+      <title>Bacón y Queso</title>
+      <description>3.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Bocadillos">
+      <title>Pollo y queso</title>
+      <description>3.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Parrilla de verduras frescas</title>
+      <description>9.50€</description>
+      <ingredientes>
+      <caracteristicas>Lacteo</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Classic Laurel burguer de vaca</title>
+      <description>8.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Parrilla de carne para dos personas</title>
+      <description>20.90€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Entrecot de Ternera</title>
+      <description>14.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Chuletón de Vaca</title>
+      <description>38.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Chuletón de Vaca Carbuga</title>
+      <description>65.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Presa Ibérica</title>
+      <description>15.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Solomillo de Cerdo Ibérico a las dos salsas</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Pulpo gallego a la brasa</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Pescado</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="A la Parrilla">
+      <title>Costillar Ibérico a la mostaza y miel</title>
+      <description>14.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Carta Infantil">
+      <title>Nugget de pollo</title>
+      <description>3.00€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Carta Infantil">
+      <title>Perrito caliente</title>
+      <description>3.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Carta Infantil">
+      <title>Plato combinado</title>
+      <description>6.50€</description>
+      <ingredientes>
+      <caracteristicas>Carne</caracteristicas>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de queso casera</title>
+      <description>4.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de zanahoria</title>
+      <description>4.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+    <menu plato="Postres">
+      <title>Tarta de chocolate</title>
+      <description>4.50€</description>
+      <ingredientes>
+      <caracteristicas>Vegano</caracteristicas>
+      </ingredientes>
+    </menu>
+</menus>
+
